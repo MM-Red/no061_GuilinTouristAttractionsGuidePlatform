@@ -57,7 +57,7 @@
 
 - <b>Mysql 5.7.26</b>
 
-- <b>Tomcat 8.0.32</b>
+- <b>Maven 3.6.3</b>
 
 - <b>JDK 1.8</b>
 
